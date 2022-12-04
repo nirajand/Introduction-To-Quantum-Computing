@@ -1,4 +1,4 @@
-`**John Preskill**`, a Quantum Computing professional is joining `**Iron Man**` and `**Batman**` at Avengers Headquarters. An interesting conversation among them about the beginning, present and future of Quantum Computing using Artificial Intelligence called ChatGP by OpenAI was generated. Let's dive into it.
+**John Preskill**, a Quantum Computing professional is joining `**Iron Man**` and `**Batman**` at Avengers Headquarters. An interesting conversation among them about the beginning, present and future of Quantum Computing using Artificial Intelligence called ChatGP by OpenAI was generated. Let's dive into it.
 
 
   `**Iron Man**`: Hey, John! It's great to have you here at Avengers HQ.
