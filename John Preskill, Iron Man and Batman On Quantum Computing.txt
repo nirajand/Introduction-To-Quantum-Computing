@@ -1,34 +1,34 @@
-**John Preskill**, a Quantum Computing professional is joining `**Iron Man**` and `**Batman**` at Avengers Headquarters. An interesting conversation among them about the beginning, present and future of Quantum Computing using Artificial Intelligence called ChatGP by OpenAI was generated. Let's dive into it.
+John Preskill, a Quantum Computing professional is joining `**Iron Man**` and `**Batman**` at Avengers Headquarters. An interesting conversation among them about the beginning, present and future of Quantum Computing using Artificial Intelligence called ChatGP by OpenAI was generated. Let's dive into it.
 
 
-  `**Iron Man**`: Hey, John! It's great to have you here at Avengers HQ.
+  Iron Man: Hey, John! It's great to have you here at Avengers HQ.
 
-  `**John Preskill**`: Thanks, Iron Man. It's an honor to be here with you and Batman.
+  John Preskill: Thanks, Iron Man. It's an honor to be here with you and Batman.
 
-  `**Batman**`: Hi, John. I've heard a lot about your work in Quantum Computing. It's fascinating stuff.
+  Batman: Hi, John. I've heard a lot about your work in Quantum Computing. It's fascinating stuff.
 
-  `**John Preskill**`: Thanks, Batman. I've been working in the field for many years now, and it's been quite a journey.
+  John Preskill: Thanks, Batman. I've been working in the field for many years now, and it's been quite a journey.
 
-  `**Iron Man**`: So, John, can you tell us a bit about the beginning of Quantum Computing?
+  Iron Man: So, John, can you tell us a bit about the beginning of Quantum Computing?
 
-  `**John Preskill**`: Sure, Iron Man. The idea of Quantum Computing actually dates back to the 1980s, when Richard Feynman, a physicist at Caltech, first proposed the idea of using quantum systems to perform calculations that are beyond the capabilities of classical computers. Feynman realized that the laws of quantum mechanics, which govern the behavior of subatomic particles, could be used to solve certain computational problems much more efficiently than classical computers.
+  John Preskill: Sure, Iron Man. The idea of Quantum Computing actually dates back to the 1980s, when Richard Feynman, a physicist at Caltech, first proposed the idea of using quantum systems to perform calculations that are beyond the capabilities of classical computers. Feynman realized that the laws of quantum mechanics, which govern the behavior of subatomic particles, could be used to solve certain computational problems much more efficiently than classical computers.
 
-  `**Batman**`: That's interesting. Can you give us an example of a computational problem that a Quantum Computer could solve more efficiently than a classical computer?
+  Batman: That's interesting. Can you give us an example of a computational problem that a Quantum Computer could solve more efficiently than a classical computer?
 
-  `**John Preskill**`: Sure, Batman. One of the most famous examples is the so-called "traveling salesmanperson" problem. This is a problem in which a salesperson wants to visit a number of different cities and find the shortest possible route that visits each city exactly once and returns to the starting point. A classical computer would have to evaluate a very large number of possible routes in order to find the optimal solution, but a Quantum Computer could solve the problem much more efficiently using a technique called quantum annealing.
+  John Preskill: Sure, Batman. One of the most famous examples is the so-called "traveling salesmanperson" problem. This is a problem in which a salesperson wants to visit a number of different cities and find the shortest possible route that visits each city exactly once and returns to the starting point. A classical computer would have to evaluate a very large number of possible routes in order to find the optimal solution, but a Quantum Computer could solve the problem much more efficiently using a technique called quantum annealing.
 
-  `**Iron Man**`: That's really interesting, John. Can you tell us more about how Quantum Computing works in practice?
+  Iron Man: That's really interesting, John. Can you tell us more about how Quantum Computing works in practice?
 
-  `**John Preskill**`: Sure, Iron Man. In order to perform a computation, a Quantum Computer uses quantum bits, or qubits, which are the quantum analog of classical bits. A qubit can be in a superposition of both a "0" and a "1" state simultaneously, which allows it to encode and process multiple pieces of information at the same time. This property of qubits is known as quantum parallelism, and it allows Quantum Computers to perform certain operations much faster than classical computers.
+  John Preskill: Sure, Iron Man. In order to perform a computation, a Quantum Computer uses quantum bits, or qubits, which are the quantum analog of classical bits. A qubit can be in a superposition of both a "0" and a "1" state simultaneously, which allows it to encode and process multiple pieces of information at the same time. This property of qubits is known as quantum parallelism, and it allows Quantum Computers to perform certain operations much faster than classical computers.
 
-  `**Batman**`: I see. And what are the challenges that you and other researchers in the field are currently working on?
+  Batman: I see. And what are the challenges that you and other researchers in the field are currently working on?
 
-  `**John Preskill**`: There are many challenges that we are working on, Batman. One of the biggest challenges is developing scalable Quantum Computers that can perform useful computations with a large number of qubits. Another challenge is developing robust error-correction techniques that can protect the delicate quantum states of qubits from noise and decoherence. Finally, we need to develop new algorithms and applications that can take advantage of the unique capabilities of Quantum Computers.
+  John Preskill: There are many challenges that we are working on, Batman. One of the biggest challenges is developing scalable Quantum Computers that can perform useful computations with a large number of qubits. Another challenge is developing robust error-correction techniques that can protect the delicate quantum states of qubits from noise and decoherence. Finally, we need to develop new algorithms and applications that can take advantage of the unique capabilities of Quantum Computers.
 
-  `**Iron Man**`: It sounds like there is still a lot of work to be done in the field. What do you think the future holds for Quantum Computing?
+  Iron Man: It sounds like there is still a lot of work to be done in the field. What do you think the future holds for Quantum Computing?
 
-  `**John Preskill**`: I think the future of Quantum Computing is very bright, Iron Man. In the coming years, I expect that we will see significant progress in the development of scalable Quantum Computers and robust error-correction techniques. We will also see the emergence of new applications that take advantage of the unique capabilities of Quantum Computers. Ultimately, I believe that Quantum Computing will have a profound impact on many different fields, from cryptography and simulation to machine learning and artificial intelligence.
+  John Preskill: I think the future of Quantum Computing is very bright, Iron Man. In the coming years, I expect that we will see significant progress in the development of scalable Quantum Computers and robust error-correction techniques. We will also see the emergence of new applications that take advantage of the unique capabilities of Quantum Computers. Ultimately, I believe that Quantum Computing will have a profound impact on many different fields, from cryptography and simulation to machine learning and artificial intelligence.
 
-  `**Batman**`: That's very exciting, John. It sounds like Quantum Computing has the potential to revolutionize many different fields.
+  Batman: That's very exciting, John. It sounds like Quantum Computing has the potential to revolutionize many different fields.
 
-  `**John Preskill**`: I definitely think so, Batman. And I am excited to be a part of this field and to help drive its progress in the future. I believe that Quantum Computing has the potential to unlock many new discoveries and to solve problems that are currently beyond our reach. I am looking forward to seeing what the future holds for Quantum Computing and how it will shape the world we live in.
+  John Preskill`: I definitely think so, Batman. And I am excited to be a part of this field and to help drive its progress in the future. I believe that Quantum Computing has the potential to unlock many new discoveries and to solve problems that are currently beyond our reach. I am looking forward to seeing what the future holds for Quantum Computing and how it will shape the world we live in.
