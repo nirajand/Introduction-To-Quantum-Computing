@@ -1,7 +1,8 @@
-The first quantum computers were built in the 1990s, but they were limited in their capabilities and could only perform very simple calculations. In recent
-years, however, there has been rapid progress in the field, and quantum computers are becoming increasingly powerful. Today, there are several companies
-and research groups working on quantum computing technology, and the field is advancing at a rapid pace.
+  Quantum computers were first proposed in the early 1980s by physicists *Richard Feynman* and *Yuri Manin*. They recognized that the principles of quantum mechanics, which govern the behavior of subatomic particles, could be used to perform calculations that are impossible for classical computers to perform.
 
+  In the years since, researchers have been working to develop the technology needed to build a working quantum computer. This has included developing the necessary hardware, such as quantum bits (qubits), which are the quantum analog of classical bits. It has also involved developing algorithms and techniques for controlling and manipulating quantum systems.
+
+  The first quantum computers were built in the 1990s, but they were limited in their capabilities and could only perform very simple calculations. In recent years, however, there has been rapid progress in the field, and quantum computers are becoming increasingly powerful. Today, there are several companies and research groups working on quantum computing technology, and the field is advancing at a rapid pace.
 
 Quantum computers are a type of computer that uses quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data.
 Unlike classical computers, which store and process information using bits represented by either 0s or 1s, quantum computers use quantum bits, or qubits,
